@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Yui</string>
+    <string name="Welcome_text">Welcome on Yui</string>
+    <string name="welcome_button">Connect</string>
+    <string name="edt_button_text">EDT</string>
+    <string name="mail_button_text">Mail</string>
+    <string name="map_button_text">Map</string>
+    <string name="moodle_button_text">Moodle</string>
+    <string name="back_button">back</string>
+</resources>
